@@ -1,0 +1,3156 @@
+Uri: https://cinestar.com.vn/
+File Name: F:\Download web\cinestar.com.vn\index.htm
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/pictures/moi/9Logo/white-2018.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\9Logo\white-2018.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/favicon.ico
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/css/style.css?v=1.5
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\css\style.css
+Content Type: text/css
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/css/validationEngine.jquery.css
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\css\validationEngine.jquery.css
+Content Type: text/css
+
+Uri: https://cinestar.com.vn/phim
+File Name: F:\Download web\cinestar.com.vn\phim.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu
+File Name: F:\Download web\cinestar.com.vn\lichchieu.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/rapvagia
+File Name: F:\Download web\cinestar.com.vn\rapvagia.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/khuyenmai
+File Name: F:\Download web\cinestar.com.vn\khuyenmai.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/hoivadap
+File Name: F:\Download web\cinestar.com.vn\hoivadap.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc
+File Name: F:\Download web\cinestar.com.vn\tintuc.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/gioithieu
+File Name: F:\Download web\cinestar.com.vn\gioithieu.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lienhe
+File Name: F:\Download web\cinestar.com.vn\lienhe.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/khuyenmai/c-student
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-student.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/khuyenmai/c-monday
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-monday.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/khuyenmai/c-tuesday
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-tuesday.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/khuyenmai/c-member
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-member.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/khuyenmai/c-refill
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-refill.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/bee4a560-b971-4e93-964b-3a2514d24fa9
+File Name: F:\Download web\cinestar.com.vn\phim\bee4a560-b971-4e93-964b-3a2514d24fa9.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/getmoviehomepage
+File Name: F:\Download web\cinestar.com.vn\getmoviehomepage.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/khuyenmai/chuongtrinhsieuyeudai0803taicinestar
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\chuongtrinhsieuyeudai0803taicinestar.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/khuyenmai/c-ten
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-ten.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/thegentlemen
+File Name: F:\Download web\cinestar.com.vn\tintuc\thegentlemen.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/cinestar-tuyen-dung-my-tho
+File Name: F:\Download web\cinestar.com.vn\tintuc\cinestar-tuyen-dung-my-tho.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/tuyen-dung-mytho
+File Name: F:\Download web\cinestar.com.vn\tintuc\tuyen-dung-mytho.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/cinestar-my-tho-chinh-thuc-khai-truong
+File Name: F:\Download web\cinestar.com.vn\tintuc\cinestar-my-tho-chinh-thuc-khai-truong.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/tuyen-dung-ke-toan-tong-hop
+File Name: F:\Download web\cinestar.com.vn\tintuc\tuyen-dung-ke-toan-tong-hop.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/nhan-vien-tham-dinh-du-an
+File Name: F:\Download web\cinestar.com.vn\tintuc\nhan-vien-tham-dinh-du-an.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/nhanvienphucvukhachhang
+File Name: F:\Download web\cinestar.com.vn\tintuc\nhanvienphucvukhachhang.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/tuyendungdesigner
+File Name: F:\Download web\cinestar.com.vn\tintuc\tuyendungdesigner.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/tuyen-dung-giam-sat
+File Name: F:\Download web\cinestar.com.vn\tintuc\tuyen-dung-giam-sat.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/truongphongkinhdoanh
+File Name: F:\Download web\cinestar.com.vn\tintuc\truongphongkinhdoanh.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/spyindisdisguise
+File Name: F:\Download web\cinestar.com.vn\tintuc\spyindisdisguise.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/rapvagia/8f3a5832-8340-4a43-89bc-6653817162f1
+File Name: F:\Download web\cinestar.com.vn\rapvagia\8f3a5832-8340-4a43-89bc-6653817162f1.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/rapvagia/e08f986a-1937-419e-b1b1-759b7c74728b
+File Name: F:\Download web\cinestar.com.vn\rapvagia\e08f986a-1937-419e-b1b1-759b7c74728b.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/rapvagia/667c7727-857e-4aac-8aeb-771a8f86cd14
+File Name: F:\Download web\cinestar.com.vn\rapvagia\667c7727-857e-4aac-8aeb-771a8f86cd14.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/rapvagia/cf13e1ce-2c1f-4c73-8ce5-7ef65472db3c
+File Name: F:\Download web\cinestar.com.vn\rapvagia\cf13e1ce-2c1f-4c73-8ce5-7ef65472db3c.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/rapvagia/f8a60463-5c34-49a9-9ae8-52081e387bb8
+File Name: F:\Download web\cinestar.com.vn\rapvagia\f8a60463-5c34-49a9-9ae8-52081e387bb8.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/rapvagia/8f54df74-3796-42ea-896e-cd638eec1fe3
+File Name: F:\Download web\cinestar.com.vn\rapvagia\8f54df74-3796-42ea-896e-cd638eec1fe3.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phimdangchieu
+File Name: F:\Download web\cinestar.com.vn\phimdangchieu.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phimsapchieu
+File Name: F:\Download web\cinestar.com.vn\phimsapchieu.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/suatchieudacbiet
+File Name: F:\Download web\cinestar.com.vn\suatchieudacbiet.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/cdn-cgi/l/email-protection
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/js/jquery.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/js/history.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\history.js
+Content Type: application/x-javascript
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/js/common.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\common.js
+Content Type: application/x-javascript
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/js/slide.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\slide.js
+Content Type: application/x-javascript
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/js/scroll.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\scroll.js
+Content Type: application/x-javascript
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/js/load.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\load.js
+Content Type: application/x-javascript
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/js/jquery.validationEngine.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\jquery.validationEngine.js
+Content Type: application/x-javascript
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/js/validate.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\validate.js
+Content Type: application/x-javascript
+
+Uri: https://cinestar.com.vn/pictures/popup/RedVin.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\popup\RedVin.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/1Banner/1Promotion/450/tẹt-ga--1920x450px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\450\tẹt-ga--1920x450px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/1Banner/1Promotion/450/c_monday--1920x450px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\450\c_monday--1920x450px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/1Banner/1Promotion/450/c'tuesday--1920x450px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\450\c'tuesday--1920x450px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/1Banner/1Promotion/450/c_member--1920x450px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\450\c_member--1920x450px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/1Banner/1Promotion/450/c'refill--1920x450px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\450\c'refill--1920x450px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/1Banner/1Promotion/450/c_ten--1920x450px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\450\c_ten--1920x450px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/moi/8DinhDang/dolby.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\dolby.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/moi/8DinhDang/christie.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\christie.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/moi/8DinhDang/2d.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\2d.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/moi/8DinhDang/3d3.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\3d3.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/The Gentlemen/df.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\The Gentlemen\df.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/cinestar-tuyen-dung-nhan-vien-phuc-vu-01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\cinestar-tuyen-dung-nhan-vien-phuc-vu-01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/CMT/cmt-web.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\cmt-web.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/CMT/viber_image_2019-12-17_11-27-36.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\viber_image_2019-12-17_11-27-36.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/shutterstock_560877814-632x422.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\shutterstock_560877814-632x422.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/the-career-of-an-engineer.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\the-career-of-an-engineer.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/cinestar-qth.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\cinestar-qth.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/creative-graphic-designer-mockup_23-2147675738.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\creative-graphic-designer-mockup_23-2147675738.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/careerdevelopment_logo.png
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\careerdevelopment_logo.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/hinhnen.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\hinhnen.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/042019/banner-web.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\042019\banner-web.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/moi/8DinhDang/dolby2.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\dolby2.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/moi/8DinhDang/crhistie.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\crhistie.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/moi/8DinhDang/2d.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\2d.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/moi/8DinhDang/3d.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\3d.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/webimages/Coffee/cinestar-coffee-02.png
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\Coffee\cinestar-coffee-02.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/cache/webimages/9Rest/1Logo/napas-40.png
+File Name: F:\Download web\cinestar.com.vn\pictures\cache\webimages\9Rest\1Logo\napas-40.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/moi/ThanhToan/payment-visa.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\ThanhToan\payment-visa.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/moi/ThanhToan/payment-mastercard.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\ThanhToan\payment-mastercard.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/webimages/9Rest/1Logo/zalopay.png
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\9Rest\1Logo\zalopay.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/webimages/momo.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\momo.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/dathongbao.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\dathongbao.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/moi/8DinhDang/3d2.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\3d2.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/js/btq.js?v=24
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\btq.js
+Content Type: application/x-javascript
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/avantg.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantg.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/avantg.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantg-1.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/avantg.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantg-2.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/avantg.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantg-3.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/avantgdemi.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantgdemi.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/avantgdemi.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantgdemi-1.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/avantgdemi.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantgdemi-2.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/avantgdemi.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantgdemi-3.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-light.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-light.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-light.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-light-1.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-light.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-light-2.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-light.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-light-3.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-italic.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-italic.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-italic.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-italic-1.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-italic.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-italic-2.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-semibold.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-semibold.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-semibold.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-semibold-1.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-semibold.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-semibold-2.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-semibold.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-semibold-3.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-cond.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-cond.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-cond.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-cond-1.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-cond.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-cond-2.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-cond.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-cond-3.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-regular.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-regular.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-regular.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-regular-1.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-regular.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-regular-2.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-regular.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-regular-3.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/futurab.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/futurab.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-1.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/futurab.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-2.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/futurab.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-3.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/futurab-bold.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-bold.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/futurab-bold.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-bold-1.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/futurab-bold.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-bold-2.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/fonts/futurab-bold.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-bold-3.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/bg-body.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\bg-body.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/load.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\load.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/circle.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\circle.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/loader.gif
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\loader.gif
+Content Type: image/gif
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/line-bg.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\line-bg.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/bg-top.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\bg-top.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/bg-footer.jpg
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\bg-footer.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/logo.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\logo.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-search.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-search.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-home.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-home.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/nav-click.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\nav-click.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/logo-footer.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\logo-footer.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/scl_google.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\scl_google.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/scl_facebook.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\scl_facebook.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/scl_youtube.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\scl_youtube.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/scroll-down.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\scroll-down.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/mouse_down.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\mouse_down.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/top.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\top.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/pattern.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\pattern.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-register.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-register.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-login.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-login.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-call.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-call.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/arrow-up.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\arrow-up.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-ticket.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-ticket.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/select.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\select.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-start.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-start.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-2d.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-2d.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-3d.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-3d.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-promotion.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-promotion.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/iocn-news.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\iocn-news.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-check.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-check.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-check-active.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-check-active.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-radio.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-radio.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-radio-active.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-radio-active.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-user.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-user.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-pass.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-pass.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-email.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-email.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/setup-bg.jpg
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\setup-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/close.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\close.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-rad1.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-rad1.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-rad1-active.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-rad1-active.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/pay_01.jpg
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\pay_01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/pay_02.jpg
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\pay_02.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/pay_03.jpg
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\pay_03.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/momo.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\momo.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-minus.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-minus.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-add.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-add.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/single-chair.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\single-chair.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/single-chair-1.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\single-chair-1.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/couple-chair.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\couple-chair.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/nc16.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\nc16.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/bottom-nav-icon-2d.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\bottom-nav-icon-2d.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/bottom-nav-icon-3d.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\bottom-nav-icon-3d.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/bottom-nav-icon-atmos.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\bottom-nav-icon-atmos.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/print.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\print.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/nav-icon-2d.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\nav-icon-2d.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/nav-icon-3d.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\nav-icon-3d.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/nav-icon-atmos.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\nav-icon-atmos.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-play.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-play.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/film-bg.jpg
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\film-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/start-comment.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\start-comment.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/start-comment-active.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\start-comment-active.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/arrow-next.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\arrow-next.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/close-1.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\close-1.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/arrow7.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\arrow7.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-news.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-news.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-welcome-bf.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-welcome-bf.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-welcome-af.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-welcome-af.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-play-1.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-play-1.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/icon-email2.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-email2.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/next_s.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\next_s.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/previous_s.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\previous_s.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/previous.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\previous.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/next.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\next.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/close3.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\close3.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/previous4.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\previous4.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/next4.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\next4.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/zoom.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\zoom.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/show.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\show.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/grabbing.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\grabbing.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/ajaxloader.gif
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\ajaxloader.gif
+Content Type: image/gif
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/search2.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\search2.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/pinchzoom.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\pinchzoom.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/catalog/view/theme/default/images/close_s.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\close_s.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/phim/6fa967b2-6769-4014-a053-10bf192610be
+File Name: F:\Download web\cinestar.com.vn\phim\6fa967b2-6769-4014-a053-10bf192610be.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/trailer?code=
+File Name: F:\Download web\cinestar.com.vn\trailer.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/6fa967b2-6769-4014-a053-10bf192610be
+File Name: F:\Download web\cinestar.com.vn\lichchieu\6fa967b2-6769-4014-a053-10bf192610be.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/5fb2a816-d98b-4380-a62a-f99cbbee7353
+File Name: F:\Download web\cinestar.com.vn\phim\5fb2a816-d98b-4380-a62a-f99cbbee7353.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/5fb2a816-d98b-4380-a62a-f99cbbee7353
+File Name: F:\Download web\cinestar.com.vn\lichchieu\5fb2a816-d98b-4380-a62a-f99cbbee7353.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/1aaa360a-da15-49a4-a71c-f7d6f7430b86
+File Name: F:\Download web\cinestar.com.vn\phim\1aaa360a-da15-49a4-a71c-f7d6f7430b86.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/1aaa360a-da15-49a4-a71c-f7d6f7430b86
+File Name: F:\Download web\cinestar.com.vn\lichchieu\1aaa360a-da15-49a4-a71c-f7d6f7430b86.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/9927298b-aeeb-4e92-90cc-95d6680b6e58
+File Name: F:\Download web\cinestar.com.vn\phim\9927298b-aeeb-4e92-90cc-95d6680b6e58.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/trailer?code=zMOig0fvFGA
+File Name: F:\Download web\cinestar.com.vn\trailer-1.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/9927298b-aeeb-4e92-90cc-95d6680b6e58
+File Name: F:\Download web\cinestar.com.vn\lichchieu\9927298b-aeeb-4e92-90cc-95d6680b6e58.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/3c7f302e-c670-4373-a493-5764b6702175
+File Name: F:\Download web\cinestar.com.vn\phim\3c7f302e-c670-4373-a493-5764b6702175.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/3c7f302e-c670-4373-a493-5764b6702175
+File Name: F:\Download web\cinestar.com.vn\lichchieu\3c7f302e-c670-4373-a493-5764b6702175.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/6a522d92-6830-43d9-b527-6b1d0cace30b
+File Name: F:\Download web\cinestar.com.vn\phim\6a522d92-6830-43d9-b527-6b1d0cace30b.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/6a522d92-6830-43d9-b527-6b1d0cace30b
+File Name: F:\Download web\cinestar.com.vn\lichchieu\6a522d92-6830-43d9-b527-6b1d0cace30b.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/3bacd4c1-f4c5-49e2-9ec4-d171ddb153fb
+File Name: F:\Download web\cinestar.com.vn\phim\3bacd4c1-f4c5-49e2-9ec4-d171ddb153fb.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/3bacd4c1-f4c5-49e2-9ec4-d171ddb153fb
+File Name: F:\Download web\cinestar.com.vn\lichchieu\3bacd4c1-f4c5-49e2-9ec4-d171ddb153fb.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/274749ea-0acd-4631-92c1-4afdfe27b749
+File Name: F:\Download web\cinestar.com.vn\phim\274749ea-0acd-4631-92c1-4afdfe27b749.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/274749ea-0acd-4631-92c1-4afdfe27b749
+File Name: F:\Download web\cinestar.com.vn\lichchieu\274749ea-0acd-4631-92c1-4afdfe27b749.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/ea466df9-8c7c-46f4-91ac-b3d6bb76c99c
+File Name: F:\Download web\cinestar.com.vn\phim\ea466df9-8c7c-46f4-91ac-b3d6bb76c99c.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/trailer?code=LLcqBWcaB0U
+File Name: F:\Download web\cinestar.com.vn\trailer-2.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/ea466df9-8c7c-46f4-91ac-b3d6bb76c99c
+File Name: F:\Download web\cinestar.com.vn\lichchieu\ea466df9-8c7c-46f4-91ac-b3d6bb76c99c.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/32abf9aa-d1fb-4853-9021-eff5497cd6a2
+File Name: F:\Download web\cinestar.com.vn\phim\32abf9aa-d1fb-4853-9021-eff5497cd6a2.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/32abf9aa-d1fb-4853-9021-eff5497cd6a2
+File Name: F:\Download web\cinestar.com.vn\lichchieu\32abf9aa-d1fb-4853-9021-eff5497cd6a2.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/9f208afa-7ae9-477b-8ed5-803b32276a83
+File Name: F:\Download web\cinestar.com.vn\phim\9f208afa-7ae9-477b-8ed5-803b32276a83.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/9f208afa-7ae9-477b-8ed5-803b32276a83
+File Name: F:\Download web\cinestar.com.vn\lichchieu\9f208afa-7ae9-477b-8ed5-803b32276a83.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/6465fef9-c503-410d-b94d-80e1a5b3a73e
+File Name: F:\Download web\cinestar.com.vn\phim\6465fef9-c503-410d-b94d-80e1a5b3a73e.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/6465fef9-c503-410d-b94d-80e1a5b3a73e
+File Name: F:\Download web\cinestar.com.vn\lichchieu\6465fef9-c503-410d-b94d-80e1a5b3a73e.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/71ad9482-cbf6-4a6a-94d3-7357aa37d85a
+File Name: F:\Download web\cinestar.com.vn\phim\71ad9482-cbf6-4a6a-94d3-7357aa37d85a.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/71ad9482-cbf6-4a6a-94d3-7357aa37d85a
+File Name: F:\Download web\cinestar.com.vn\lichchieu\71ad9482-cbf6-4a6a-94d3-7357aa37d85a.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/4a235428-be2e-4db5-b266-ca10c8770107
+File Name: F:\Download web\cinestar.com.vn\phim\4a235428-be2e-4db5-b266-ca10c8770107.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/trailer?code=7kqel0HQmCM
+File Name: F:\Download web\cinestar.com.vn\trailer-3.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/4a235428-be2e-4db5-b266-ca10c8770107
+File Name: F:\Download web\cinestar.com.vn\lichchieu\4a235428-be2e-4db5-b266-ca10c8770107.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/b7219dd8-d47e-4cd1-9803-0d313c4e8584
+File Name: F:\Download web\cinestar.com.vn\phim\b7219dd8-d47e-4cd1-9803-0d313c4e8584.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/b7219dd8-d47e-4cd1-9803-0d313c4e8584
+File Name: F:\Download web\cinestar.com.vn\lichchieu\b7219dd8-d47e-4cd1-9803-0d313c4e8584.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/d62b3bb4-66f2-41eb-8735-83cf18864a01
+File Name: F:\Download web\cinestar.com.vn\phim\d62b3bb4-66f2-41eb-8735-83cf18864a01.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/d62b3bb4-66f2-41eb-8735-83cf18864a01
+File Name: F:\Download web\cinestar.com.vn\lichchieu\d62b3bb4-66f2-41eb-8735-83cf18864a01.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/839a232a-4b84-4ae7-997a-066cbae6f138
+File Name: F:\Download web\cinestar.com.vn\phim\839a232a-4b84-4ae7-997a-066cbae6f138.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/839a232a-4b84-4ae7-997a-066cbae6f138
+File Name: F:\Download web\cinestar.com.vn\lichchieu\839a232a-4b84-4ae7-997a-066cbae6f138.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/797ec28f-21b3-4f2b-82d7-f70dbff672cc
+File Name: F:\Download web\cinestar.com.vn\phim\797ec28f-21b3-4f2b-82d7-f70dbff672cc.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/797ec28f-21b3-4f2b-82d7-f70dbff672cc
+File Name: F:\Download web\cinestar.com.vn\lichchieu\797ec28f-21b3-4f2b-82d7-f70dbff672cc.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/0745d133-2ea0-460a-9548-ebf1b1309ed4
+File Name: F:\Download web\cinestar.com.vn\phim\0745d133-2ea0-460a-9548-ebf1b1309ed4.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/0745d133-2ea0-460a-9548-ebf1b1309ed4
+File Name: F:\Download web\cinestar.com.vn\lichchieu\0745d133-2ea0-460a-9548-ebf1b1309ed4.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/514d33dd-a78b-4451-abcb-a7a44fe99fef
+File Name: F:\Download web\cinestar.com.vn\phim\514d33dd-a78b-4451-abcb-a7a44fe99fef.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/514d33dd-a78b-4451-abcb-a7a44fe99fef
+File Name: F:\Download web\cinestar.com.vn\lichchieu\514d33dd-a78b-4451-abcb-a7a44fe99fef.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/343db50a-13e2-48d2-9abf-99d2467c4900
+File Name: F:\Download web\cinestar.com.vn\phim\343db50a-13e2-48d2-9abf-99d2467c4900.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/343db50a-13e2-48d2-9abf-99d2467c4900
+File Name: F:\Download web\cinestar.com.vn\lichchieu\343db50a-13e2-48d2-9abf-99d2467c4900.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/204fb214-ae53-4674-82cd-e74af5353f9a
+File Name: F:\Download web\cinestar.com.vn\phim\204fb214-ae53-4674-82cd-e74af5353f9a.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/204fb214-ae53-4674-82cd-e74af5353f9a
+File Name: F:\Download web\cinestar.com.vn\lichchieu\204fb214-ae53-4674-82cd-e74af5353f9a.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/phim/0f5b880c-7c91-4d0f-95fe-03a5b3ff5386
+File Name: F:\Download web\cinestar.com.vn\phim\0f5b880c-7c91-4d0f-95fe-03a5b3ff5386.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/0f5b880c-7c91-4d0f-95fe-03a5b3ff5386
+File Name: F:\Download web\cinestar.com.vn\lichchieu\0f5b880c-7c91-4d0f-95fe-03a5b3ff5386.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/pictures/webimages/1Banner/1Promotion/340/tẹt-ga--1920x340px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\340\tẹt-ga--1920x340px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/1Banner/1Promotion/340/c_monday--1920x340px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\340\c_monday--1920x340px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/1Banner/1Promotion/340/c'tuesday--1920x340px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\340\c'tuesday--1920x340px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/1Banner/1Promotion/340/c_ten--1920x340px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\340\c_ten--1920x340px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/1Banner/1Promotion/340/c_member--1920x340px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\340\c_member--1920x340px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/02-2020/onward.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\02-2020\onward.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/02-2020/cuocxe.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\02-2020\cuocxe.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/03-2020/truytim.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\03-2020\truytim.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/01-2020/gaigia.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\01-2020\gaigia.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/02-2020/ma2.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\02-2020\ma2.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/02-2020/sac-dep-doi-tra.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\02-2020\sac-dep-doi-tra.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/03-2020/acmong.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\03-2020\acmong.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/03-2020/canho.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\03-2020\canho.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/02-2020/thinghiem.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\02-2020\thinghiem.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/02-2020/sothu.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\02-2020\sothu.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/02-2020/kevohinh.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\02-2020\kevohinh.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/02-2020/thecall.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\02-2020\thecall.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/03-2020/coma.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\03-2020\coma.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/01-2020/bmcg.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\01-2020\bmcg.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/03-2020/dauan.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\03-2020\dauan.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/03-2020/nhimsoc.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\03-2020\nhimsoc.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/02-2020/vungdat.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\02-2020\vungdat.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/03-2020/samacchet.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\03-2020\samacchet.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/03-2020/acquy.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\03-2020\acquy.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/02-2020/chi13.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\02-2020\chi13.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/02-2020/bloodshot.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\02-2020\bloodshot.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/03-2020/nang3.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\03-2020\nang3.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/03-2020/vianh.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\03-2020\vianh.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/khuyenmai/c-friend
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-friend.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/khuyenmai/c-vip
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-vip.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/khuyenmai/the-thanh-vien-phong-chong-ma-tuy
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\the-thanh-vien-phong-chong-ma-tuy.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/pictures/webimages/3Khuyenmai/web-616x325.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\web-616x325.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/3Khuyenmai/tẹt-ga--616x325px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\tẹt-ga--616x325px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/3Khuyenmai/c_monday--616x325px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\c_monday--616x325px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/3Khuyenmai/c_ten--616x325px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\c_ten--616x325px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/3Khuyenmai/c_member--616x325px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\c_member--616x325px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/3Khuyenmai/c_tuesday--616x325px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\c_tuesday--616x325px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/3Khuyenmai/c_refill--616x325px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\c_refill--616x325px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/moi/3HoiDap/Background/hhv2dyu.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\3HoiDap\Background\hhv2dyu.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/1Banner/1Promotion/340/c_refill--1920x340px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\340\c_refill--1920x340px--01.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/tintuc/tin-dien-anh
+File Name: F:\Download web\cinestar.com.vn\tintuc\tin-dien-anh.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/tuyen-dung
+File Name: F:\Download web\cinestar.com.vn\tintuc\tuyen-dung.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/pictures/moi/5GioiThieu/2CongNghe/Background/bg.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\5GioiThieu\2CongNghe\Background\bg.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/gioithieu/he-thong-cinestar
+File Name: F:\Download web\cinestar.com.vn\gioithieu\he-thong-cinestar.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/gioithieu/cong-nghe-phong-chieu
+File Name: F:\Download web\cinestar.com.vn\gioithieu\cong-nghe-phong-chieu.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/www.facebook.com/cinestarmytho
+File Name: F:\Download web\cinestar.com.vn\www.facebook.com\cinestarmytho.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/viewvideo?id=7
+File Name: F:\Download web\cinestar.com.vn\viewvideo.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/viewvideo?id=12
+File Name: F:\Download web\cinestar.com.vn\viewvideo-1.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/pictures/webimages/6GioiThieu/website-csv-3.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\6GioiThieu\website-csv-3.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/6GioiThieu/avatar-web.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\6GioiThieu\avatar-web.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/6GioiThieu/cinestar-hbt-new-2-03.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\6GioiThieu\cinestar-hbt-new-2-03.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/6GioiThieu/cinestar-da-lat-new-03.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\6GioiThieu\cinestar-da-lat-new-03.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/moi/5GioiThieu/1HeThong/1Cinestar/rap.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\5GioiThieu\1HeThong\1Cinestar\rap.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/moi/5GioiThieu/2CongNghe/92-10-t1200.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\5GioiThieu\2CongNghe\92-10-t1200.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/moi/5GioiThieu/2CongNghe/sweetbox425x274.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\5GioiThieu\2CongNghe\sweetbox425x274.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/moi/5GioiThieu/2CongNghe/bolbyatmos425-x274.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\5GioiThieu\2CongNghe\bolbyatmos425-x274.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/moi/5GioiThieu/2CongNghe/digital-cinema-projector-4k-main-image-1.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\5GioiThieu\2CongNghe\digital-cinema-projector-4k-main-image-1.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/webimages/7LienHe/650x250.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\7LienHe\650x250.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/moi/6LienHe/Background/3.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\6LienHe\Background\3.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/moi/6LienHe/Background/1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\6LienHe\Background\1.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/khuyenmai/c-morning
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-morning.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/ads@cinestar.com.vn
+File Name: F:\Download web\cinestar.com.vn\ads@cinestar.com.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/lichchieu/
+File Name: F:\Download web\cinestar.com.vn\lichchieu\index.htm
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/LHP-Dan-Mach-2019
+File Name: F:\Download web\cinestar.com.vn\tintuc\LHP-Dan-Mach-2019.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/itchapter2
+File Name: F:\Download web\cinestar.com.vn\tintuc\itchapter2.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/spiderman-far-from-home
+File Name: F:\Download web\cinestar.com.vn\tintuc\spiderman-far-from-home.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/The Gentlemen/unnamed.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\The Gentlemen\unnamed.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/The Gentlemen/e.png
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\The Gentlemen\e.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/The Gentlemen/fsa.png
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\The Gentlemen\fsa.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/LHP Dan Mach/banner---lhp-dan-mach-web.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\LHP Dan Mach\banner---lhp-dan-mach-web.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/itchapter2.0.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\itchapter2.0.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/725x325-smffh.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\725x325-smffh.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/tintuc/nhanvien-it
+File Name: F:\Download web\cinestar.com.vn\tintuc\nhanvien-it.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/nv-phongchieu
+File Name: F:\Download web\cinestar.com.vn\tintuc\nv-phongchieu.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/nv-thungan
+File Name: F:\Download web\cinestar.com.vn\tintuc\nv-thungan.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/tintuc/nv-kythuat
+File Name: F:\Download web\cinestar.com.vn\tintuc\nv-kythuat.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/career-management-1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\career-management-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/thu-quy.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\thu-quy.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/moi/4TinTuc/TUYENDUNG/cinestar_sales_manager.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\4TinTuc\TUYENDUNG\cinestar_sales_manager.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/careers.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\careers.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/projectionist-1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\projectionist-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/woman-with-calculator.jpeg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\woman-with-calculator.jpeg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/CMT/cinestar-my-tho-khai-truong~1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\cinestar-my-tho-khai-truong~1.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/CMT/aaaa~2.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\aaaa~2.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/CMT/phong-chieu-cinestar-3.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\phong-chieu-cinestar-3.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/CMT/cinestar-my-tho.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\cinestar-my-tho.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/CMT/cinestar-my-tho-2~1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\cinestar-my-tho-2~1.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/CMT/1200x500.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\1200x500.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/CMT/chi-chi-em-em~1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\chi-chi-em-em~1.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/CMT/sss.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\sss.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/Cinestar/CMT/hinh-tuan-phim-khai-truong.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\hinh-tuan-phim-khai-truong.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/042019/1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\042019\1.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/042019/2.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\042019\2.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/042019/3.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\042019\3.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/042019/4.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\042019\4.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/042019/5.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\042019\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/
+File Name: F:\Download web\cinestar.com.vn\index-1.htm
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/pictures/moi/9Logo/white-2018.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\9Logo\white-2018-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/favicon.ico
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/css/style.css?v=1.5
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\css\style-1.css
+Content Type: text/css
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/css/validationEngine.jquery.css
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\css\validationEngine.jquery-1.css
+Content Type: text/css
+
+Uri: https://www.cinestar.com.vn/phim
+File Name: F:\Download web\cinestar.com.vn\phim-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu
+File Name: F:\Download web\cinestar.com.vn\lichchieu-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/rapvagia
+File Name: F:\Download web\cinestar.com.vn\rapvagia-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/khuyenmai
+File Name: F:\Download web\cinestar.com.vn\khuyenmai-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/hoivadap
+File Name: F:\Download web\cinestar.com.vn\hoivadap-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc
+File Name: F:\Download web\cinestar.com.vn\tintuc-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/gioithieu
+File Name: F:\Download web\cinestar.com.vn\gioithieu-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lienhe
+File Name: F:\Download web\cinestar.com.vn\lienhe-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/khuyenmai/c-student
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-student-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/khuyenmai/c-monday
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-monday-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/khuyenmai/c-tuesday
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-tuesday-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/khuyenmai/c-member
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-member-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/khuyenmai/c-refill
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-refill-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/bee4a560-b971-4e93-964b-3a2514d24fa9
+File Name: F:\Download web\cinestar.com.vn\phim\bee4a560-b971-4e93-964b-3a2514d24fa9-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/getmoviehomepage
+File Name: F:\Download web\cinestar.com.vn\getmoviehomepage-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/khuyenmai/chuongtrinhsieuyeudai0803taicinestar
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\chuongtrinhsieuyeudai0803taicinestar-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/khuyenmai/c-ten
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-ten-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/thegentlemen
+File Name: F:\Download web\cinestar.com.vn\tintuc\thegentlemen-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/cinestar-tuyen-dung-my-tho
+File Name: F:\Download web\cinestar.com.vn\tintuc\cinestar-tuyen-dung-my-tho-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/tuyen-dung-mytho
+File Name: F:\Download web\cinestar.com.vn\tintuc\tuyen-dung-mytho-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/cinestar-my-tho-chinh-thuc-khai-truong
+File Name: F:\Download web\cinestar.com.vn\tintuc\cinestar-my-tho-chinh-thuc-khai-truong-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/tuyen-dung-ke-toan-tong-hop
+File Name: F:\Download web\cinestar.com.vn\tintuc\tuyen-dung-ke-toan-tong-hop-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/nhan-vien-tham-dinh-du-an
+File Name: F:\Download web\cinestar.com.vn\tintuc\nhan-vien-tham-dinh-du-an-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/nhanvienphucvukhachhang
+File Name: F:\Download web\cinestar.com.vn\tintuc\nhanvienphucvukhachhang-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/tuyendungdesigner
+File Name: F:\Download web\cinestar.com.vn\tintuc\tuyendungdesigner-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/tuyen-dung-giam-sat
+File Name: F:\Download web\cinestar.com.vn\tintuc\tuyen-dung-giam-sat-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/truongphongkinhdoanh
+File Name: F:\Download web\cinestar.com.vn\tintuc\truongphongkinhdoanh-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/spyindisdisguise
+File Name: F:\Download web\cinestar.com.vn\tintuc\spyindisdisguise-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/rapvagia/8f3a5832-8340-4a43-89bc-6653817162f1
+File Name: F:\Download web\cinestar.com.vn\rapvagia\8f3a5832-8340-4a43-89bc-6653817162f1-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/rapvagia/e08f986a-1937-419e-b1b1-759b7c74728b
+File Name: F:\Download web\cinestar.com.vn\rapvagia\e08f986a-1937-419e-b1b1-759b7c74728b-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/rapvagia/667c7727-857e-4aac-8aeb-771a8f86cd14
+File Name: F:\Download web\cinestar.com.vn\rapvagia\667c7727-857e-4aac-8aeb-771a8f86cd14-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/rapvagia/cf13e1ce-2c1f-4c73-8ce5-7ef65472db3c
+File Name: F:\Download web\cinestar.com.vn\rapvagia\cf13e1ce-2c1f-4c73-8ce5-7ef65472db3c-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/rapvagia/f8a60463-5c34-49a9-9ae8-52081e387bb8
+File Name: F:\Download web\cinestar.com.vn\rapvagia\f8a60463-5c34-49a9-9ae8-52081e387bb8-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/rapvagia/8f54df74-3796-42ea-896e-cd638eec1fe3
+File Name: F:\Download web\cinestar.com.vn\rapvagia\8f54df74-3796-42ea-896e-cd638eec1fe3-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phimdangchieu
+File Name: F:\Download web\cinestar.com.vn\phimdangchieu-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phimsapchieu
+File Name: F:\Download web\cinestar.com.vn\phimsapchieu-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/suatchieudacbiet
+File Name: F:\Download web\cinestar.com.vn\suatchieudacbiet-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/l/email-protection
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\l\email-protection-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/js/jquery.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\jquery-1.js
+Content Type: application/x-javascript
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/js/history.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\history-1.js
+Content Type: application/x-javascript
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/js/common.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\common-1.js
+Content Type: application/x-javascript
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/js/slide.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\slide-1.js
+Content Type: application/x-javascript
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/js/scroll.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\scroll-1.js
+Content Type: application/x-javascript
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/js/load.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\load-1.js
+Content Type: application/x-javascript
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/js/jquery.validationEngine.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\jquery.validationEngine-1.js
+Content Type: application/x-javascript
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/js/validate.js
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\validate-1.js
+Content Type: application/x-javascript
+
+Uri: https://www.cinestar.com.vn/pictures/popup/RedVin.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\popup\RedVin-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/1Banner/1Promotion/450/tẹt-ga--1920x450px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\450\tẹt-ga--1920x450px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/1Banner/1Promotion/450/c_monday--1920x450px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\450\c_monday--1920x450px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/1Banner/1Promotion/450/c'tuesday--1920x450px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\450\c'tuesday--1920x450px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/1Banner/1Promotion/450/c_member--1920x450px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\450\c_member--1920x450px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/1Banner/1Promotion/450/c'refill--1920x450px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\450\c'refill--1920x450px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/1Banner/1Promotion/450/c_ten--1920x450px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\450\c_ten--1920x450px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/moi/8DinhDang/dolby.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\dolby-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/moi/8DinhDang/christie.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\christie-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/moi/8DinhDang/2d.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\2d-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/moi/8DinhDang/3d3.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\3d3-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/The Gentlemen/df.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\The Gentlemen\df-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/cinestar-tuyen-dung-nhan-vien-phuc-vu-01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\cinestar-tuyen-dung-nhan-vien-phuc-vu-01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/Cinestar/CMT/cmt-web.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\cmt-web-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/Cinestar/CMT/viber_image_2019-12-17_11-27-36.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\viber_image_2019-12-17_11-27-36-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/shutterstock_560877814-632x422.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\shutterstock_560877814-632x422-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/the-career-of-an-engineer.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\the-career-of-an-engineer-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/cinestar-qth.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\cinestar-qth-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/creative-graphic-designer-mockup_23-2147675738.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\creative-graphic-designer-mockup_23-2147675738-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/careerdevelopment_logo.png
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\careerdevelopment_logo-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/hinhnen.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\hinhnen-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/042019/banner-web.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\042019\banner-web-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/moi/8DinhDang/dolby2.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\dolby2-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/moi/8DinhDang/crhistie.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\crhistie-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/moi/8DinhDang/2d.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\2d-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/moi/8DinhDang/3d.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\3d-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/Coffee/cinestar-coffee-02.png
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\Coffee\cinestar-coffee-02-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/cache/webimages/9Rest/1Logo/napas-40.png
+File Name: F:\Download web\cinestar.com.vn\pictures\cache\webimages\9Rest\1Logo\napas-40-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/moi/ThanhToan/payment-visa.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\ThanhToan\payment-visa-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/moi/ThanhToan/payment-mastercard.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\ThanhToan\payment-mastercard-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/9Rest/1Logo/zalopay.png
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\9Rest\1Logo\zalopay-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/momo.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\momo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/dathongbao.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\dathongbao-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/moi/8DinhDang/3d2.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\8DinhDang\3d2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/js/btq.js?v=24
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\js\btq-1.js
+Content Type: application/x-javascript
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/cf.errors.css
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://cinestar.com.vn/cdn-cgi/scripts/zepto.min.js
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\scripts\zepto.min.js
+Content Type: application/javascript
+
+Uri: https://cinestar.com.vn/cdn-cgi/scripts/cf.common.js
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\scripts\cf.common.js
+Content Type: application/javascript
+
+Uri: https://cinestar.com.vn/pictures/webimages/3Khuyenmai/member/point.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\member\point.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/gioithieu/www.facebook.com/cinestarmytho
+File Name: F:\Download web\cinestar.com.vn\gioithieu\www.facebook.com\cinestarmytho.html
+Content Type: text/html
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/poster.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\poster.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\1.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/5.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\5.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/2.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\2.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/3.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\3.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/4.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\4.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/poster.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\poster.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/tom-holland.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\tom-holland.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/zendaya.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\zendaya.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/samuel-l.jackson.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\samuel-l.jackson.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/jake-gyllenhaal.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\jake-gyllenhaal.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/cobie-smulders.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\cobie-smulders.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/jake-gyllenhaal-_-tom-holland~1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\jake-gyllenhaal-_-tom-holland~1.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/jacob-batalon~1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\jacob-batalon~1.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/jon-watts.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\jon-watts.jpg
+Content Type: image/jpeg
+
+Uri: https://cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/kevin-feige.png
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\kevin-feige.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/avantg.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantg-4.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/avantg.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantg-5.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/avantg.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantg-6.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/avantg.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantg-7.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/avantgdemi.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantgdemi-4.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/avantgdemi.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantgdemi-5.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/avantgdemi.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantgdemi-6.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/avantgdemi.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\avantgdemi-7.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-light.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-light-4.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-light.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-light-5.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-light.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-light-6.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-light.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-light-7.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-italic.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-italic-3.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-italic.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-italic-4.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-italic.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-italic-5.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-semibold.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-semibold-4.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-semibold.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-semibold-5.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-semibold.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-semibold-6.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-semibold.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-semibold-7.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-cond.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-cond-4.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-cond.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-cond-5.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-cond.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-cond-6.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-cond.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-cond-7.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-regular.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-regular-4.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-regular.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-regular-5.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-regular.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-regular-6.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/myriadpro-regular.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\myriadpro-regular-7.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/futurab.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-4.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/futurab.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-5.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/futurab.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-6.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/futurab.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-7.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/futurab-bold.eot
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-bold-4.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/futurab-bold.eot?
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-bold-5.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/futurab-bold.woff
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-bold-6.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/fonts/futurab-bold.ttf
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\fonts\futurab-bold-7.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/bg-body.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\bg-body-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/load.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\load-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/circle.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\circle-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/loader.gif
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\loader-1.gif
+Content Type: image/gif
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/line-bg.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\line-bg-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/bg-top.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\bg-top-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/bg-footer.jpg
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\bg-footer-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/logo.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\logo-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-search.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-search-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-home.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-home-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/nav-click.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\nav-click-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/logo-footer.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\logo-footer-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/scl_google.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\scl_google-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/scl_facebook.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\scl_facebook-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/scl_youtube.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\scl_youtube-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/scroll-down.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\scroll-down-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/mouse_down.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\mouse_down-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/top.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\top-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/pattern.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\pattern-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-register.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-register-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-login.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-login-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-call.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-call-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/arrow-up.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\arrow-up-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-ticket.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-ticket-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/select.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\select-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-start.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-start-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-2d.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-2d-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-3d.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-3d-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-promotion.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-promotion-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/iocn-news.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\iocn-news-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-check.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-check-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-check-active.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-check-active-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-radio.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-radio-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-radio-active.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-radio-active-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-user.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-user-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-pass.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-pass-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-email.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-email-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/setup-bg.jpg
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\setup-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/close.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\close-2.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-rad1.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-rad1-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-rad1-active.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-rad1-active-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/pay_01.jpg
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\pay_01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/pay_02.jpg
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\pay_02-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/pay_03.jpg
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\pay_03-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/momo.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\momo-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-minus.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-minus-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-add.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-add-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/single-chair.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\single-chair-2.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/single-chair-1.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\single-chair-1-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/couple-chair.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\couple-chair-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/nc16.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\nc16-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/bottom-nav-icon-2d.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\bottom-nav-icon-2d-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/bottom-nav-icon-3d.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\bottom-nav-icon-3d-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/bottom-nav-icon-atmos.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\bottom-nav-icon-atmos-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/print.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\print-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/nav-icon-2d.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\nav-icon-2d-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/nav-icon-3d.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\nav-icon-3d-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/nav-icon-atmos.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\nav-icon-atmos-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-play.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-play-2.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/film-bg.jpg
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\film-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/start-comment.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\start-comment-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/start-comment-active.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\start-comment-active-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/arrow-next.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\arrow-next-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/close-1.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\close-1-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/arrow7.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\arrow7-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-news.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-news-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-welcome-bf.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-welcome-bf-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-welcome-af.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-welcome-af-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-play-1.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-play-1-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/icon-email2.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\icon-email2-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/next_s.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\next_s-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/previous_s.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\previous_s-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/previous.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\previous-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/next.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\next-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/close3.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\close3-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/previous4.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\previous4-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/next4.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\next4-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/zoom.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\zoom-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/show.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\show-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/grabbing.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\grabbing-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/ajaxloader.gif
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\ajaxloader-1.gif
+Content Type: image/gif
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/search2.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\search2-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/pinchzoom.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\pinchzoom-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/catalog/view/theme/default/images/close_s.png
+File Name: F:\Download web\cinestar.com.vn\catalog\view\theme\default\images\close_s-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/phim/6fa967b2-6769-4014-a053-10bf192610be
+File Name: F:\Download web\cinestar.com.vn\phim\6fa967b2-6769-4014-a053-10bf192610be-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/trailer?code=
+File Name: F:\Download web\cinestar.com.vn\trailer-4.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/6fa967b2-6769-4014-a053-10bf192610be
+File Name: F:\Download web\cinestar.com.vn\lichchieu\6fa967b2-6769-4014-a053-10bf192610be-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/5fb2a816-d98b-4380-a62a-f99cbbee7353
+File Name: F:\Download web\cinestar.com.vn\phim\5fb2a816-d98b-4380-a62a-f99cbbee7353-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/5fb2a816-d98b-4380-a62a-f99cbbee7353
+File Name: F:\Download web\cinestar.com.vn\lichchieu\5fb2a816-d98b-4380-a62a-f99cbbee7353-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/1aaa360a-da15-49a4-a71c-f7d6f7430b86
+File Name: F:\Download web\cinestar.com.vn\phim\1aaa360a-da15-49a4-a71c-f7d6f7430b86-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/1aaa360a-da15-49a4-a71c-f7d6f7430b86
+File Name: F:\Download web\cinestar.com.vn\lichchieu\1aaa360a-da15-49a4-a71c-f7d6f7430b86-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/9927298b-aeeb-4e92-90cc-95d6680b6e58
+File Name: F:\Download web\cinestar.com.vn\phim\9927298b-aeeb-4e92-90cc-95d6680b6e58-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/trailer?code=zMOig0fvFGA
+File Name: F:\Download web\cinestar.com.vn\trailer-5.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/9927298b-aeeb-4e92-90cc-95d6680b6e58
+File Name: F:\Download web\cinestar.com.vn\lichchieu\9927298b-aeeb-4e92-90cc-95d6680b6e58-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/3c7f302e-c670-4373-a493-5764b6702175
+File Name: F:\Download web\cinestar.com.vn\phim\3c7f302e-c670-4373-a493-5764b6702175-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/3c7f302e-c670-4373-a493-5764b6702175
+File Name: F:\Download web\cinestar.com.vn\lichchieu\3c7f302e-c670-4373-a493-5764b6702175-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/6a522d92-6830-43d9-b527-6b1d0cace30b
+File Name: F:\Download web\cinestar.com.vn\phim\6a522d92-6830-43d9-b527-6b1d0cace30b-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/6a522d92-6830-43d9-b527-6b1d0cace30b
+File Name: F:\Download web\cinestar.com.vn\lichchieu\6a522d92-6830-43d9-b527-6b1d0cace30b-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/3bacd4c1-f4c5-49e2-9ec4-d171ddb153fb
+File Name: F:\Download web\cinestar.com.vn\phim\3bacd4c1-f4c5-49e2-9ec4-d171ddb153fb-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/3bacd4c1-f4c5-49e2-9ec4-d171ddb153fb
+File Name: F:\Download web\cinestar.com.vn\lichchieu\3bacd4c1-f4c5-49e2-9ec4-d171ddb153fb-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/274749ea-0acd-4631-92c1-4afdfe27b749
+File Name: F:\Download web\cinestar.com.vn\phim\274749ea-0acd-4631-92c1-4afdfe27b749-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/274749ea-0acd-4631-92c1-4afdfe27b749
+File Name: F:\Download web\cinestar.com.vn\lichchieu\274749ea-0acd-4631-92c1-4afdfe27b749-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/ea466df9-8c7c-46f4-91ac-b3d6bb76c99c
+File Name: F:\Download web\cinestar.com.vn\phim\ea466df9-8c7c-46f4-91ac-b3d6bb76c99c-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/trailer?code=LLcqBWcaB0U
+File Name: F:\Download web\cinestar.com.vn\trailer-6.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/ea466df9-8c7c-46f4-91ac-b3d6bb76c99c
+File Name: F:\Download web\cinestar.com.vn\lichchieu\ea466df9-8c7c-46f4-91ac-b3d6bb76c99c-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/32abf9aa-d1fb-4853-9021-eff5497cd6a2
+File Name: F:\Download web\cinestar.com.vn\phim\32abf9aa-d1fb-4853-9021-eff5497cd6a2-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/32abf9aa-d1fb-4853-9021-eff5497cd6a2
+File Name: F:\Download web\cinestar.com.vn\lichchieu\32abf9aa-d1fb-4853-9021-eff5497cd6a2-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/9f208afa-7ae9-477b-8ed5-803b32276a83
+File Name: F:\Download web\cinestar.com.vn\phim\9f208afa-7ae9-477b-8ed5-803b32276a83-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/9f208afa-7ae9-477b-8ed5-803b32276a83
+File Name: F:\Download web\cinestar.com.vn\lichchieu\9f208afa-7ae9-477b-8ed5-803b32276a83-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/6465fef9-c503-410d-b94d-80e1a5b3a73e
+File Name: F:\Download web\cinestar.com.vn\phim\6465fef9-c503-410d-b94d-80e1a5b3a73e-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/6465fef9-c503-410d-b94d-80e1a5b3a73e
+File Name: F:\Download web\cinestar.com.vn\lichchieu\6465fef9-c503-410d-b94d-80e1a5b3a73e-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/71ad9482-cbf6-4a6a-94d3-7357aa37d85a
+File Name: F:\Download web\cinestar.com.vn\phim\71ad9482-cbf6-4a6a-94d3-7357aa37d85a-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/71ad9482-cbf6-4a6a-94d3-7357aa37d85a
+File Name: F:\Download web\cinestar.com.vn\lichchieu\71ad9482-cbf6-4a6a-94d3-7357aa37d85a-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/4a235428-be2e-4db5-b266-ca10c8770107
+File Name: F:\Download web\cinestar.com.vn\phim\4a235428-be2e-4db5-b266-ca10c8770107-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/trailer?code=7kqel0HQmCM
+File Name: F:\Download web\cinestar.com.vn\trailer-7.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/4a235428-be2e-4db5-b266-ca10c8770107
+File Name: F:\Download web\cinestar.com.vn\lichchieu\4a235428-be2e-4db5-b266-ca10c8770107-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/b7219dd8-d47e-4cd1-9803-0d313c4e8584
+File Name: F:\Download web\cinestar.com.vn\phim\b7219dd8-d47e-4cd1-9803-0d313c4e8584-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/b7219dd8-d47e-4cd1-9803-0d313c4e8584
+File Name: F:\Download web\cinestar.com.vn\lichchieu\b7219dd8-d47e-4cd1-9803-0d313c4e8584-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/d62b3bb4-66f2-41eb-8735-83cf18864a01
+File Name: F:\Download web\cinestar.com.vn\phim\d62b3bb4-66f2-41eb-8735-83cf18864a01-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/d62b3bb4-66f2-41eb-8735-83cf18864a01
+File Name: F:\Download web\cinestar.com.vn\lichchieu\d62b3bb4-66f2-41eb-8735-83cf18864a01-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/839a232a-4b84-4ae7-997a-066cbae6f138
+File Name: F:\Download web\cinestar.com.vn\phim\839a232a-4b84-4ae7-997a-066cbae6f138-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/839a232a-4b84-4ae7-997a-066cbae6f138
+File Name: F:\Download web\cinestar.com.vn\lichchieu\839a232a-4b84-4ae7-997a-066cbae6f138-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/797ec28f-21b3-4f2b-82d7-f70dbff672cc
+File Name: F:\Download web\cinestar.com.vn\phim\797ec28f-21b3-4f2b-82d7-f70dbff672cc-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/797ec28f-21b3-4f2b-82d7-f70dbff672cc
+File Name: F:\Download web\cinestar.com.vn\lichchieu\797ec28f-21b3-4f2b-82d7-f70dbff672cc-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/0745d133-2ea0-460a-9548-ebf1b1309ed4
+File Name: F:\Download web\cinestar.com.vn\phim\0745d133-2ea0-460a-9548-ebf1b1309ed4-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/0745d133-2ea0-460a-9548-ebf1b1309ed4
+File Name: F:\Download web\cinestar.com.vn\lichchieu\0745d133-2ea0-460a-9548-ebf1b1309ed4-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/514d33dd-a78b-4451-abcb-a7a44fe99fef
+File Name: F:\Download web\cinestar.com.vn\phim\514d33dd-a78b-4451-abcb-a7a44fe99fef-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/514d33dd-a78b-4451-abcb-a7a44fe99fef
+File Name: F:\Download web\cinestar.com.vn\lichchieu\514d33dd-a78b-4451-abcb-a7a44fe99fef-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/343db50a-13e2-48d2-9abf-99d2467c4900
+File Name: F:\Download web\cinestar.com.vn\phim\343db50a-13e2-48d2-9abf-99d2467c4900-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/343db50a-13e2-48d2-9abf-99d2467c4900
+File Name: F:\Download web\cinestar.com.vn\lichchieu\343db50a-13e2-48d2-9abf-99d2467c4900-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/204fb214-ae53-4674-82cd-e74af5353f9a
+File Name: F:\Download web\cinestar.com.vn\phim\204fb214-ae53-4674-82cd-e74af5353f9a-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/204fb214-ae53-4674-82cd-e74af5353f9a
+File Name: F:\Download web\cinestar.com.vn\lichchieu\204fb214-ae53-4674-82cd-e74af5353f9a-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/phim/0f5b880c-7c91-4d0f-95fe-03a5b3ff5386
+File Name: F:\Download web\cinestar.com.vn\phim\0f5b880c-7c91-4d0f-95fe-03a5b3ff5386-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/0f5b880c-7c91-4d0f-95fe-03a5b3ff5386
+File Name: F:\Download web\cinestar.com.vn\lichchieu\0f5b880c-7c91-4d0f-95fe-03a5b3ff5386-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/1Banner/1Promotion/340/tẹt-ga--1920x340px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\340\tẹt-ga--1920x340px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/1Banner/1Promotion/340/c_monday--1920x340px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\340\c_monday--1920x340px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/1Banner/1Promotion/340/c'tuesday--1920x340px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\340\c'tuesday--1920x340px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/1Banner/1Promotion/340/c_ten--1920x340px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\340\c_ten--1920x340px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/1Banner/1Promotion/340/c_member--1920x340px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\340\c_member--1920x340px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/khuyenmai/c-friend
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-friend-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/khuyenmai/c-vip
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-vip-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/khuyenmai/the-thanh-vien-phong-chong-ma-tuy
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\the-thanh-vien-phong-chong-ma-tuy-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/3Khuyenmai/web-616x325.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\web-616x325-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/3Khuyenmai/tẹt-ga--616x325px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\tẹt-ga--616x325px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/3Khuyenmai/c_monday--616x325px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\c_monday--616x325px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/3Khuyenmai/c_ten--616x325px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\c_ten--616x325px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/3Khuyenmai/c_member--616x325px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\c_member--616x325px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/3Khuyenmai/c_tuesday--616x325px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\c_tuesday--616x325px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/3Khuyenmai/c_refill--616x325px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\c_refill--616x325px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/moi/3HoiDap/Background/hhv2dyu.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\3HoiDap\Background\hhv2dyu-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/1Banner/1Promotion/340/c_refill--1920x340px--01.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\1Banner\1Promotion\340\c_refill--1920x340px--01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/tintuc/tin-dien-anh
+File Name: F:\Download web\cinestar.com.vn\tintuc\tin-dien-anh-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/tuyen-dung
+File Name: F:\Download web\cinestar.com.vn\tintuc\tuyen-dung-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/pictures/moi/5GioiThieu/2CongNghe/Background/bg.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\5GioiThieu\2CongNghe\Background\bg-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/gioithieu/he-thong-cinestar
+File Name: F:\Download web\cinestar.com.vn\gioithieu\he-thong-cinestar-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/gioithieu/cong-nghe-phong-chieu
+File Name: F:\Download web\cinestar.com.vn\gioithieu\cong-nghe-phong-chieu-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/www.facebook.com/cinestarmytho
+File Name: F:\Download web\cinestar.com.vn\www.facebook.com\cinestarmytho-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/viewvideo?id=7
+File Name: F:\Download web\cinestar.com.vn\viewvideo-2.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/viewvideo?id=12
+File Name: F:\Download web\cinestar.com.vn\viewvideo-3.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/6GioiThieu/website-csv-3.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\6GioiThieu\website-csv-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/6GioiThieu/avatar-web.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\6GioiThieu\avatar-web-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/6GioiThieu/cinestar-hbt-new-2-03.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\6GioiThieu\cinestar-hbt-new-2-03-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/6GioiThieu/cinestar-da-lat-new-03.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\6GioiThieu\cinestar-da-lat-new-03-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/moi/5GioiThieu/1HeThong/1Cinestar/rap.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\5GioiThieu\1HeThong\1Cinestar\rap-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/moi/5GioiThieu/2CongNghe/92-10-t1200.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\5GioiThieu\2CongNghe\92-10-t1200-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/moi/5GioiThieu/2CongNghe/sweetbox425x274.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\5GioiThieu\2CongNghe\sweetbox425x274-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/moi/5GioiThieu/2CongNghe/bolbyatmos425-x274.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\5GioiThieu\2CongNghe\bolbyatmos425-x274-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/moi/5GioiThieu/2CongNghe/digital-cinema-projector-4k-main-image-1.png
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\5GioiThieu\2CongNghe\digital-cinema-projector-4k-main-image-1-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/7LienHe/650x250.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\7LienHe\650x250-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/moi/6LienHe/Background/3.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\6LienHe\Background\3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/moi/6LienHe/Background/1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\6LienHe\Background\1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/khuyenmai/c-morning
+File Name: F:\Download web\cinestar.com.vn\khuyenmai\c-morning-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/ads@cinestar.com.vn
+File Name: F:\Download web\cinestar.com.vn\ads@cinestar.com-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/lichchieu/
+File Name: F:\Download web\cinestar.com.vn\lichchieu\index-1.htm
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/LHP-Dan-Mach-2019
+File Name: F:\Download web\cinestar.com.vn\tintuc\LHP-Dan-Mach-2019-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/itchapter2
+File Name: F:\Download web\cinestar.com.vn\tintuc\itchapter2-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/spiderman-far-from-home
+File Name: F:\Download web\cinestar.com.vn\tintuc\spiderman-far-from-home-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/The Gentlemen/unnamed.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\The Gentlemen\unnamed-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/The Gentlemen/e.png
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\The Gentlemen\e-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/The Gentlemen/fsa.png
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\The Gentlemen\fsa-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/Cinestar/LHP Dan Mach/banner---lhp-dan-mach-web.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\LHP Dan Mach\banner---lhp-dan-mach-web-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/itchapter2.0.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\itchapter2.0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/725x325-smffh.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\725x325-smffh-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/tintuc/nhanvien-it
+File Name: F:\Download web\cinestar.com.vn\tintuc\nhanvien-it-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/nv-phongchieu
+File Name: F:\Download web\cinestar.com.vn\tintuc\nv-phongchieu-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/nv-thungan
+File Name: F:\Download web\cinestar.com.vn\tintuc\nv-thungan-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/tintuc/nv-kythuat
+File Name: F:\Download web\cinestar.com.vn\tintuc\nv-kythuat-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/career-management-1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\career-management-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/thu-quy.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\thu-quy-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/moi/4TinTuc/TUYENDUNG/cinestar_sales_manager.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\moi\4TinTuc\TUYENDUNG\cinestar_sales_manager-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/careers.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\careers-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/projectionist-1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\projectionist-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Tuyendung/woman-with-calculator.jpeg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Tuyendung\woman-with-calculator-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/Cinestar/CMT/cinestar-my-tho-khai-truong~1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\cinestar-my-tho-khai-truong~1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/Cinestar/CMT/aaaa~2.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\aaaa~2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/Cinestar/CMT/phong-chieu-cinestar-3.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\phong-chieu-cinestar-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/Cinestar/CMT/cinestar-my-tho.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\cinestar-my-tho-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/Cinestar/CMT/cinestar-my-tho-2~1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\cinestar-my-tho-2~1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/Cinestar/CMT/1200x500.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\1200x500-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/Cinestar/CMT/chi-chi-em-em~1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\chi-chi-em-em~1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/Cinestar/CMT/sss.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\sss-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/Cinestar/CMT/hinh-tuan-phim-khai-truong.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\Cinestar\CMT\hinh-tuan-phim-khai-truong-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/042019/1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\042019\1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/042019/2.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\042019\2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/042019/3.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\042019\3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/042019/4.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\042019\4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/042019/5.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\042019\5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/cf.errors.css
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\cf.errors-1.css
+Content Type: text/css
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/scripts/zepto.min.js
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\scripts\zepto.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/scripts/cf.common.js
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\scripts\cf.common-1.js
+Content Type: application/javascript
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300.eot
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300.eot?
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300.woff
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300.woff
+Content Type: application/font-woff
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300.ttf
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300.svg
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300.svg
+Content Type: image/svg+xml
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400.eot
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400.eot?
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400.woff
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400.woff
+Content Type: application/font-woff
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400.ttf
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400.svg
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-600.eot
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-600.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-600.eot?
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-600-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-600.woff
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-600.woff
+Content Type: application/font-woff
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-600.ttf
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-600.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-600.svg
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-600.svg
+Content Type: image/svg+xml
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-700.eot
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-700.eot?
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-700.woff
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-700.woff
+Content Type: application/font-woff
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-700.ttf
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-700.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-700.svg
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-700.svg
+Content Type: image/svg+xml
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300i.eot
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300i.eot?
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300i.woff
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300i.woff
+Content Type: application/font-woff
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300i.ttf
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300i.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300i.svg
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300i.svg
+Content Type: image/svg+xml
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400i.eot
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400i.eot?
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400i.woff
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400i.woff
+Content Type: application/font-woff
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400i.ttf
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400i.bin
+Content Type: application/octet-stream
+
+Uri: https://cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400i.svg
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400i.svg
+Content Type: image/svg+xml
+
+Uri: https://cinestar.com.vn/cdn-cgi/images/error_icons.png
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\images\error_icons.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://cinestar.com.vn/cdn-cgi/images/browser-bar.png?1376755637
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/3Khuyenmai/member/point.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\3Khuyenmai\member\point-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/gioithieu/www.facebook.com/cinestarmytho
+File Name: F:\Download web\cinestar.com.vn\gioithieu\www.facebook.com\cinestarmytho-1.html
+Content Type: text/html
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/poster.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\poster-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/5.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/2.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/3.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/IT CHAPTER TWO/4.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\IT CHAPTER TWO\4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/poster.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\poster-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/tom-holland.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\tom-holland-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/zendaya.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\zendaya-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/samuel-l.jackson.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\samuel-l.jackson-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/jake-gyllenhaal.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\jake-gyllenhaal-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/cobie-smulders.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\cobie-smulders-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/jake-gyllenhaal-_-tom-holland~1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\jake-gyllenhaal-_-tom-holland~1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/jacob-batalon~1.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\jacob-batalon~1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/jon-watts.jpg
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\jon-watts-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.cinestar.com.vn/pictures/webimages/5TinTuc/Spidermen/kevin-feige.png
+File Name: F:\Download web\cinestar.com.vn\pictures\webimages\5TinTuc\Spidermen\kevin-feige-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300.eot
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300.eot?
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300.woff
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300-1.woff
+Content Type: application/font-woff
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300.ttf
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300-1.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300.svg
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400.eot
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400.eot?
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400.woff
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400-1.woff
+Content Type: application/font-woff
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400.ttf
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400-1.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400.svg
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-600.eot
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-600-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-600.eot?
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-600-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-600.woff
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-600-1.woff
+Content Type: application/font-woff
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-600.ttf
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-600-1.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-600.svg
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-600-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-700.eot
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-700-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-700.eot?
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-700-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-700.woff
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-700-1.woff
+Content Type: application/font-woff
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-700.ttf
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-700-1.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-700.svg
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-700-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300i.eot
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300i-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300i.eot?
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300i-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300i.woff
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300i-1.woff
+Content Type: application/font-woff
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300i.ttf
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300i-1.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-300i.svg
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-300i-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400i.eot
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400i-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400i.eot?
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400i-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400i.woff
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400i-1.woff
+Content Type: application/font-woff
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400i.ttf
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400i-1.bin
+Content Type: application/octet-stream
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/styles/fonts/opensans-400i.svg
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\styles\fonts\opensans-400i-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/images/error_icons.png
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\images\error_icons-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\images\icon-exclamation-1.png
+Content Type: image/png
+
+Uri: https://www.cinestar.com.vn/cdn-cgi/images/browser-bar.png?1376755637
+File Name: F:\Download web\cinestar.com.vn\cdn-cgi\images\browser-bar-1.png
+Content Type: image/png
+
